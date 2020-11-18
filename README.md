@@ -20,7 +20,10 @@ UC Berkeley에서 개발되었습니다. 대학 랩에서 이러한 프레임워
  나는 스칼라 언어에 무지하므로 python으로 사용하였다. <br>
  python의 경우에는 ./bin/pyspark 를 이용하면 된다. <br>
  파이썬을 이용하여 Dataframe 을 만들고 이러한 데이터프레임을 SQL으로 바꾸어주어 SQL 쿼리들에 응답할수있는 실습을 진행해보았다. <br>
+ 아래 그림들은 위의 img 파일안에 업로드해놓았다.
  
+ # 처리하고자 하는 데이터
+ <img width="310" alt="zzz" src="https://user-images.githubusercontent.com/41941627/99473867-d163b700-298e-11eb-8688-9fb16d126ca5.png">
  ### JSON 파일을 DATAFRAME으로 바꾼 각각의 테이블(instructor , department) 이다.
 <img width="239" alt="df show(department)" src="https://user-images.githubusercontent.com/41941627/99472267-9ca23080-298b-11eb-8904-b4b6645e0ac9.png">
 <img width="238" alt="df show(instructor)" src="https://user-images.githubusercontent.com/41941627/99472271-9dd35d80-298b-11eb-8f3a-9ae14dd4a92c.png">
