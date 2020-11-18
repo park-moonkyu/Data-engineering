@@ -22,25 +22,27 @@ UC Berkeley에서 개발되었습니다. 대학 랩에서 이러한 프레임워
  파이썬을 이용하여 Dataframe 을 만들고 이러한 데이터프레임을 SQL으로 바꾸어주어 SQL 쿼리들에 응답할수있는 실습을 진행해보았다. <br>
  아래 그림들은 위의 img 파일안에 업로드해놓았다.
  
- # 처리하고자 하는 데이터
+ ### 처리하고자 하는 데이터
  <img width="310" alt="zzz" src="https://user-images.githubusercontent.com/41941627/99473867-d163b700-298e-11eb-8688-9fb16d126ca5.png">
+ 
  ### JSON 파일을 DATAFRAME으로 바꾼 각각의 테이블(instructor , department) 이다.
+ 
 <img width="239" alt="df show(department)" src="https://user-images.githubusercontent.com/41941627/99472267-9ca23080-298b-11eb-8904-b4b6645e0ac9.png">
 <img width="238" alt="df show(instructor)" src="https://user-images.githubusercontent.com/41941627/99472271-9dd35d80-298b-11eb-8f3a-9ae14dd4a92c.png">
 
- ### "Find the names of all instructors with salary is >= $90,000 and <=$100,000" 질의 처리 화면
+ ### Find the names of all instructors with salary is >= $90,000 and <=$100,000
 
 <img width="433" alt="3번질문" src="https://user-images.githubusercontent.com/41941627/99472274-a035b780-298b-11eb-82b0-cbb5fb2fa725.png">
 
- ###  "Find the names and average salaries of all departments whose average salary is greater than 80000" 질의 처리 화면
+ ### Find the names and average salaries of all departments whose average salary is greater than 80000
 
 
 <img width="164" alt="4번질문" src="https://user-images.githubusercontent.com/41941627/99472278-a166e480-298b-11eb-97ea-806ba2fab95f.png">
 
- ### ) “Find the ID, name, department name of instructors whose department is located at ‘Taylor’ building” 질의 처리 화면
+ ### Find the ID, name, department name of instructors whose department is located at ‘Taylor’ building
 
 <img width="277" alt="5번질문" src="https://user-images.githubusercontent.com/41941627/99472283-a2981180-298b-11eb-97ab-85571b463d04.png">
 
- ### ) "Find names of instructors with salary greater than that of some (at least one) instructor in the ‘Biology’ department" 질의 처리 화면
+ ### Find names of instructors with salary greater than that of some (at least one) instructor in the ‘Biology’ department
 
 <img width="384" alt="6번질문" src="https://user-images.githubusercontent.com/41941627/99472284-a3c93e80-298b-11eb-9aed-9e4fc4c2e7d4.png">
