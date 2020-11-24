@@ -2,8 +2,13 @@
 ![zz](https://img.favpng.com/21/18/13/apache-spark-apache-hadoop-big-data-scala-apache-http-server-png-favpng-EpaM9khCpGC32E7uRV7fuaWpy.jpg) </br></br>
 If you want to see metadata or get more detailed information on the data set, please refer to the link below.</br>
 <https://spark.apache.org/docs/latest/>
- 
- Windows 위에 VM(VMWare)을 활용하여 Linux(Ubuntu 18.04.05 LTS) 를 설치 하였습니다. <br>
+
+<br>
+## 아래 사이트는 제가 Spark 뿐만 제가 정리한 cloud 글이 있는 Tech blog입니다. 해당 블로그에는 cloud computing부터 hadoop, spark까지 순차적으로 정리되어있습니다.
+
+<https://blog.naver.com/mk_crew/222075444353>
+<br>
+Windows 위에 VM(VMWare)을 활용하여 Linux(Ubuntu 18.04.05 LTS) 를 설치 하였습니다. <br>
  Linux위에 도커(v19.03.13)를 컨테이너를 띄워 스파크환경이 구성된 컨테이너에서 예제를 진행하였습니다. <br>
  
 
@@ -13,9 +18,9 @@ UC Berkeley에서 개발되었습니다. 대학 랩에서 이러한 프레임워
 아래는 스칼라 스파크 설명이 있는 위키독스로 필요하면 참고하면 좋을것 같습니다.<br>
 <https://wikidocs.net/book/2350>
 
-## 스파크 실습
-우선 내가 스파크가 있는 환경은 root/spark 이다. spark 는 Scala, Python, Java 를 지원한다.<br>
-따라서 pwd를 쳤을때 root/spark 안에서 ls bin을 활용해보면 다양한 소스들을 확인할수 있다. <br>
+ ## 스파크 실습
+ 우선 내가 스파크가 있는 환경은 root/spark 이다. spark 는 Scala, Python, Java 를 지원한다.<br>
+ 따라서 pwd를 쳤을때 root/spark 안에서 ls bin을 활용해보면 다양한 소스들을 확인할수 있다. <br>
 ./bin/spark-shell 을 사용하면 <scala> 를 사용할수있고 해당 창이나온다. <br>
  나는 스칼라 언어에 무지하므로 python으로 사용하였다. <br>
  python의 경우에는 ./bin/pyspark 를 이용하면 된다. <br>
