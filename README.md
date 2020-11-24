@@ -3,11 +3,12 @@
 If you want to see metadata or get more detailed information on the data set, please refer to the link below.</br>
 <https://spark.apache.org/docs/latest/>
 
-<br>
-## 아래 사이트는 제가 Spark 뿐만 제가 정리한 cloud 글이 있는 Tech blog입니다. 해당 블로그에는 cloud computing부터 hadoop, spark까지 순차적으로 정리되어있습니다.
 
+#### 아래 사이트는 제가 Spark 뿐만 제가 정리한 cloud 글이 있는 Tech blog입니다. 
+#### 해당 블로그에는 cloud computing부터 hadoop, spark까지 순차적으로 정리되어있습니다.
 <https://blog.naver.com/mk_crew/222075444353>
-<br>
+
+
 Windows 위에 VM(VMWare)을 활용하여 Linux(Ubuntu 18.04.05 LTS) 를 설치 하였습니다. <br>
  Linux위에 도커(v19.03.13)를 컨테이너를 띄워 스파크환경이 구성된 컨테이너에서 예제를 진행하였습니다. <br>
  
