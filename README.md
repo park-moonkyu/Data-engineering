@@ -4,8 +4,8 @@ If you want to see metadata or get more detailed information on the data set, pl
 <https://spark.apache.org/docs/latest/>
 
 
-#### 아래 사이트는 제가 Spark 뿐만 제가 정리한 cloud 글이 있는 Tech blog입니다. 
-#### 해당 블로그에는 cloud computing부터 hadoop, spark까지 순차적으로 정리되어있습니다.
+
+#### 해당 블로그에는 제가 cloud computing부터 hadoop, spark까지 순차적으로 정리되어있습니다.
 <https://blog.naver.com/mk_crew/222075444353>
 
 
